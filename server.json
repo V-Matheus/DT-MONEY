@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-04-05T13:24:03.073Z"
+    },
+    {
+      "id": "9707",
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-05T17:12:38.020Z"
+    },
+    {
+      "id": "7829",
+      "description": "teste",
+      "price": 20,
+      "category": "sla",
+      "type": "outcome",
+      "createdAt": "2024-04-05T17:28:18.648Z"
     }
   ]
 }
